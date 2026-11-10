@@ -1,6 +1,6 @@
 # Le golem, de Meshy à Unity
 
-Le projet de la vidéo 1 de [Tirvel](https://www.youtube.com/@tirvel). Liens de la vidéo : [tirvel.com/golem](https://tirvel.com/golem/).
+Le projet de la vidéo 1 de [Tirvel](https://www.youtube.com/@tirvel).
 
 Un golem généré par IA avec [Meshy](https://www.meshy.ai), puis rendu jouable dans Unity par un agent (Claude Code), à partir d'un seul prompt.
 

@@ -1,0 +1,26 @@
+# Unity : fichiers regénérés à l'ouverture du projet
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+.vs/
+.vscode/
+
+# Paquet de l'Asset Store : chacun l'importe depuis son compte (licence Asset Store)
+/Assets/Starter Assets/
+/Assets/Starter Assets.meta
+
+# Fichiers Blender : seuls golem.glb et golem.fbx sont publiés
+*.blend
+*.blend1
+
+# Traces locales
+.claude/
+.env*
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
